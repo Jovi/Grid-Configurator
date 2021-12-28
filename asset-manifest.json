@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grid-configurator/static/css/main.073c9b0a.css",
+    "main.js": "/grid-configurator/static/js/main.17dccf96.js",
+    "static/js/787.a0d28be0.chunk.js": "/grid-configurator/static/js/787.a0d28be0.chunk.js",
+    "static/media/logo.svg": "/grid-configurator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grid-configurator/index.html",
+    "main.073c9b0a.css.map": "/grid-configurator/static/css/main.073c9b0a.css.map",
+    "main.17dccf96.js.map": "/grid-configurator/static/js/main.17dccf96.js.map",
+    "787.a0d28be0.chunk.js.map": "/grid-configurator/static/js/787.a0d28be0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.17dccf96.js"
+  ]
+}
